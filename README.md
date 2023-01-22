@@ -1,6 +1,20 @@
 ### Hi there, I'm Muhammad Wajid 👋
 
-I have been working in Web Development for more than 2 years. My expertise goes from MERN stack development to Blockchain development. Experienced with Functional JavaScript and React for making dynamic web pages, D3js for Data visualization and Solidity for smart contract development. 
+An accomplished full-stack blockchain developer with over 2 years of experience in developing decentralized applications and smart contracts. Has a proven track record of creating and deploying smart contracts for launchpads, ERC20 tokens, NFTs, and Vesting claimers. Has extensive experience in Solidity and proficiency in writing secure and reliable smart contracts, which were thoroughly tested using hardhat. Has a solid understanding of the full stack development process, including front-end and back-end development using React and Node.js. With strong problem-solving skills, able to quickly adapt to new technologies and programming languages. With a focus on delivering high-quality solutions, this developer is an asset to any blockchain project.
+
+Tools I have worked with.
+ 
+Solidity,
+Hardhat,
+JavaScript,
+Typescript,
+React.js,
+Next.js,
+Mongodb,
+MySql,
+MUI,
+Nest.js,
+Nodejs
 
 
 **Recent Update**:

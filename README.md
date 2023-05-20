@@ -18,6 +18,7 @@ Nodejs
 
 
 **Recent Update**:
+- **May 2023**: Completed Solana Blockchain Program by Nas Academy and Solana Foundation . [[Certificate]](./certificates/SolanaCertificate.pdf)
 - **Jully 2022**: Ceritified Blockchian Developer. [[Certificate]](https://www.btacertified.com/dlink/f3c0112cb5b493d03fb3554a17bac902fef51c7b379b00bc92e2cd803d0c2448/certdisplayhash)
 
 ## Connect with me:
